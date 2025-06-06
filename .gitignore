@@ -1,0 +1,7 @@
+.qodo
+.vscode/
+.idea/
+flowers/
+checkpoints/
+managed_context/
+test_suite_analysis/

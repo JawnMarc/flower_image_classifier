@@ -1,0 +1,6 @@
+torch
+torchvision
+gradio
+Pillow
+numpy
+# matplotlib # Not strictly needed for this app.py, but util_funx.py imports it. Add if issues arise.
